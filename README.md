@@ -1,16 +1,12 @@
-# what_to_code
+# What to Code
+This project is a mobile app to get random ideas from https://what-to-code.com.
 
-A new Flutter project.
+What to Code helps developers to gather ideas for their next coding project.
+The software is completely [open source](https://github.com/bykof/what-to-code) and the hosting costs are paid by the maintainer.
 
-## Getting Started
+Michael Bykovski (http://bykovski.de) is the creator of this project. Feel free to contact him via the [Contact Page](https://what-to-code.com/contact).
 
-This project is a starting point for a Flutter application.
+![output](https://user-images.githubusercontent.com/49736632/233560201-884d17b2-d292-48c5-a1fa-de5eaa48caac.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# License
+This app uses [GPL-v3.0](https://github.com/Guaxinim5573/what-to-code-flutter/blob/main/LICENSE) license.
